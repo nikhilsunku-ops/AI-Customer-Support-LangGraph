@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# SQLite database
+memory.db
+
+# Chroma Vector Database
+rag/chroma_db/
+
+# IDE settings
+.vscode/
+.idea/
