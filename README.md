@@ -262,18 +262,3 @@ What was my previous support issue?
 
 ---
 
-# Assignment Tasks Completed
-
-* LangGraph Workflow
-* State Management
-* Intent Classification
-* Conditional Routing
-* Specialized Support Agents
-* Retrieval-Augmented Generation (RAG)
-* SQLite Memory
-* Human-in-the-Loop Approval
-* Supervisor Agent
-* Complete Demonstration
-
----
-
